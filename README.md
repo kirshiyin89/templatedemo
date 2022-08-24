@@ -1,4 +1,4 @@
-## H2 and Testcontainers Database testing demo for Spring Boot projects
+## This is a H2 and Testcontainers Database testing demo for Spring Boot projects
 
 ### This is a demo for my article on medium.com:
 
